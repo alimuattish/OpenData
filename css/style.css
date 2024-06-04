@@ -139,7 +139,7 @@ a {
     
     .animated-squares::after {
         content: "";
-    background: url(/pattern\ out\ board\ Big-01.svg) no-repeat center fixed;
+    background: url(/image/DataPattern.svg) no-repeat center fixed;
     background-size: cover;
     position: absolute;
     display: inline-block;
